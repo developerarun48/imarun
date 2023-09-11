@@ -48,7 +48,7 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              i Founded in 2023, Sydney is an innovative British brand with a
+              i Founded in 2023, Sydney is an innovative Arun's brand with a
               contemporary edge. We make timeless everyday luxury clothing.
             </p>
             <br />
